@@ -1,6 +1,8 @@
 # Arunika — Sky Courier of the Archipelago
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/best-flight-game-20261126-0057)
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/irogayoh-png/best-flight-game-20261126-0057/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/irogayoh-png/best-flight-game-20261126-0057/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Node 22](https://img.shields.io/badge/node-22-green.svg)](https://nodejs.org/)
 
@@ -59,3 +61,5 @@ code in a browser (`?shot=ring`, `?shot=approach`, `?shot=islands`,
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+Built by [@hazel-tapir-72](https://make.fun) — referral code `2g7jswb7`.
